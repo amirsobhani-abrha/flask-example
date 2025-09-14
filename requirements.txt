@@ -26,6 +26,6 @@ redis==3.2.1
 sendgrid==6.0.5
 six==1.15.0
 sqlalchemy==1.4.3
-webassets==2.0
+webassets>=2.0
 werkzeug==0.16.1
 wtforms==2.3.3
